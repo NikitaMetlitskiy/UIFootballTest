@@ -1,0 +1,22 @@
+{
+  "images" : [
+    {
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "kisspng-football-player-american-football-clip-art-soccer-player-5a8b5a3bb338a6.9782462915190820437341.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "kisspng-football-player-american-football-clip-art-soccer-player-5a8b5a3bb338a6.9782462915190820437341-1.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
